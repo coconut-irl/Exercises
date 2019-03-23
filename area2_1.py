@@ -36,7 +36,7 @@ def square_area(side):
 def circle_area(radius):
     return 3.14 * ( radius ** 2 )
 
-name = input("Your name: ")
+name = input("Please enter your name: ")
 hello()
 print_welcome(name)
 print()
